@@ -1,0 +1,14 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.upload-area {
+  border: 2px dashed rgb(0, 123, 255);
+  padding: 130px;
+  text-align: center;
+  width: 1000px;
+  height: 300px;
+  margin: 100px auto auto auto;
+  cursor: pointer;
+  flex: center-items;
+}
